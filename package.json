@@ -1,0 +1,25 @@
+{
+  "name": "sp-map",
+  "version": "0.0.1",
+  "description": "Map function for SharePoint object collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-S/sp-map.git"
+  },
+  "keywords": [
+    "SharePoint"
+  ],
+  "author": "Frederick-S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Frederick-S/sp-map/issues"
+  },
+  "homepage": "https://github.com/Frederick-S/sp-map#readme",
+  "dependencies": {
+    "sp-each": "0.0.5"
+  }
+}

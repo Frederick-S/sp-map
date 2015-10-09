@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="76bf5f69-5b4f-47ce-acf1-9549d3e55998" 
+        solutionId="76bf5f69-5b4f-47ce-acf1-9549d3e55998" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPMap_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="29d591c0-b01f-4fb8-8cbb-696bc051aa88" />
+  </features>
+</package>
