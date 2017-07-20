@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Frederick-S/sp-map#readme",
   "dependencies": {
-    "sp-each": "0.0.5"
+    "sp-each": "1.0.2"
   }
 }
