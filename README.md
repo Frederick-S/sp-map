@@ -1,4 +1,6 @@
 # sp-map
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-map.svg)](https://greenkeeper.io/)
 Map function for SharePoint object collection.
 
 ## Installation
